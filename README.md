@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tradeshift
+- 🔭 I’m currently working on Oqton
 - 🌱 I’m currently learning kubernetes source code
 - 👯 I’m looking to collaborate on kubernetes project
 - 🤔 I’m looking for help with kubernetes project
